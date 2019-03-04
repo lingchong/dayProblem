@@ -1,0 +1,7 @@
+mapping.xml传入map类型
+使用trim标签
+四个属性：prefix prefixOverrides suffix suffixOverrides
+ctl + shift + T workspace内查找java文件
+web.xml的filter使用
+FilterConfig作用：getServeletContext();
+
