@@ -1,0 +1,29 @@
+lettuce
+http://85b7be1a.wiz03.com/share/s/25JXUq1LUAMT2GB1mm3HpGN_1mntwp3w8AwP2euXtZ37pjBJ
+
+jedis:
+https://blog.csdn.net/chenrushui/article/details/78676211
+使用redisCluster
+https://www.cnblogs.com/ll409546297/p/7203427.html
+
+ctrl + shift + z
+ctrl + shift + 1
+
+web.xml读取spring.xml和mybatis配置
+<context-param>
+   <param-name>contextConfigLocation</param-name>
+    <param-value>classpath:spring.xml,classpath:spirng-mybatis.xml</param-value>
+</context-param>
+
+tomcat初始化过程：
+1.读取web.xml配置文件的《listener>和<context-param>
+2.创建serverContext，应用范围内可用
+3.将context-param转化为键值对，交给ServletContext
+4.创建《listener>的类实例，创建监听
+https://www.cnblogs.com/brolanda/p/4265597.html
+httpsession
+
+
+https://www.chromestory.com/
+
+split screen
